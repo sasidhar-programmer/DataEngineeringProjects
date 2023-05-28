@@ -1,6 +1,6 @@
 <h1>Airflow DAG: podcast_summary2</h1>
 
-![alt text](https://github.com/sasidhar-programmer/DataEngineeringProjects/blob/main/pipe.png)
+<img src = "./pipe.png" alt = "pipeline image"> 
 <p>This Airflow DAG named <code>podcast_summary2</code> is designed to extract, transform and load podcast episodes from
     the Marketplace podcast feed, and store them in a SQLite database. It also downloads the audio files of the podcast
     episodes to the specified directory.</p>
